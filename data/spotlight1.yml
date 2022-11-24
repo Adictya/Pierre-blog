@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "A New Era of India-Africa Defense Cooperation"
+content: As India moves towards becoming a major exporter of defense products, achieving the target of exporting $5 billion by 2025, Africa will play a crucial role in realizing this goal.
+# content: |
+#   This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+button: 
+  label: "Read More"
+  link: "https://thegeopolitics.com/a-new-era-of-india-africa-defense-cooperation/"
+image: "images/blog_thumbnails/Indian-Navy-ships.jpeg"

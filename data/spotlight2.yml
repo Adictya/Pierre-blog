@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Indo-U.S. Joint Defense Production: Trade to Partnership"
+content: |
+  Recently Rajnath Singh, the Defense Minister of India invited US companies to carry out joint research, manufacturing, and maintenance of defense equipment in India to achieve the ambitious aim of “Make in India, Make for the World.” He further stressed the need to move from the buyer-seller relationship to partner nations.
+# content: |
+#   This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+button: 
+  label: "Read More"
+  link: "https://thesouthasiantimes.info/indo-u-s-joint-defense-production-trade-to-partnership/"
+image: "images/blog_thumbnails/Indo-US-Photo-The-Citizen.jpg"

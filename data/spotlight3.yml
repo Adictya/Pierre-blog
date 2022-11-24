@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : 'Revolt against the Plutocracy in Kazakhstan, the "Land of wanderers"'
+content: |
+  The protestors across Kazakhstan demanded a more democratically open political system, disturbing the balance of power of the government’s authoritarian and plutocratic regime.
+# content: |
+#   And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+button: 
+  label: "Read More"
+  link: "https://usanasfoundation.com/revolt-against-the-plutocracy-in-kazakhstan-the-land-of-wanderers"
+image: "images/blog_thumbnails/Kazakhstan.jpg"
