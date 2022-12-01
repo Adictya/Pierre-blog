@@ -24,9 +24,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
+  # github = "https://github.com/caressofsteel/"
+  twitter = "https://twitter.com/puru_354"
+  email = "purusingh.354@gmail.com"
+  # instagram = "https://instagram.com"
+  linkedin = "https://www.linkedin.com/in/puru-singh-6a3b0b1b8/"
+  # telegram = "https://telegram.org"
