@@ -25,19 +25,19 @@ pictures:
     content: "Not So Famous but Pious Church of the East"
     image: "images/IMG_2447.jpg"
     thumb: "images/IMG_2447.jpg"
-    button: ""
+    button: "Scroll Right"
     
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/IMG_8344.jpg"
-    thumb: "images/IMG_8344.jpg"
+  - title: "Look Up!"
+    content: "From the hills of Baba Budan"
+    image: "images/me_bw.jpg"
+    thumb: "images/me_bw.jpg"
     button: "Details"
 
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/me_bw.jpg"
-    thumb: "images/me_bw.jpg"
+  - title: "Where are my Pants?"
+    content: "Look Within and then Look Outside"
+    image: "images/IMG_8344.jpg"
+    thumb: "images/IMG_8344.jpg"
     button: "Details"
 
   - title: "Title"
