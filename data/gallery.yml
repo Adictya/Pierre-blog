@@ -19,13 +19,13 @@ pictures:
     content: "Sneak Peak Windows for the Erstwhile Queens"
     image: "images/hawamahal_simpleedit.jpg"
     thumb: "images/hawamahal_simpleedit.jpg"
-    button: "Details"
+    button: "Enlarge"
 
   - title: "Jesus Died for All"
-    content: "Not So Famous but Pious Church of East"
+    content: "Not So Famous but Pious Church of the East"
     image: "images/IMG_2447.jpg"
     thumb: "images/IMG_2447.jpg"
-    button: "Details"
+    button: "https://www.youtube.com/shorts/JJqgFrqFZxY"
     
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
